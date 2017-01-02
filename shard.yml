@@ -1,0 +1,14 @@
+name: idocrase
+version: 0.0.1
+
+authors:
+  - Sho Kusano <rosylilly@aduca.org>
+
+crystal: 0.20.3
+
+license: MIT
+
+dependencies:
+  radix:
+    github: luislavena/radix
+    version: ~> 0.3
